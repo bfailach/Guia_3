@@ -1,0 +1,7 @@
+package com.mycompany.excepcionproject;
+
+public class ExceptoFecha extends Exception {
+    public ExceptoFecha(String s) {
+        super(s);
+    }
+}
